@@ -1,1 +1,1 @@
-console.log("%s: %d", "Hello", 25);
+console.log("%s: %d", "Hello", 35);
