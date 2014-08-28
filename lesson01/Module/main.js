@@ -4,5 +4,5 @@
 
 var Second = require('./hello');
 test = new Second();
-test.setName('EKEK');
+test.setName(' EKEK');
 test.sayHello();
