@@ -16,6 +16,7 @@
     <file path="/FileOpt.js" changelist="eaec474c-64b8-45bd-b767-4a9a4a621790" time="1409293898876" ignored="false" />
     <file path="/test.txt" changelist="eaec474c-64b8-45bd-b767-4a9a4a621790" time="1409294786633" ignored="false" />
     <file path="/Memroy.txt" changelist="eaec474c-64b8-45bd-b767-4a9a4a621790" time="1409294679219" ignored="false" />
+    <file path="/Server.js" changelist="eaec474c-64b8-45bd-b767-4a9a4a621790" time="1409297370047" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Memory.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Questtion/Memory.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="53" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Server.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/Server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.41775456">
+            <state line="23" column="130" selection-start="497" selection-end="497" vertical-scroll-proportion="0.79112273">
               <folding />
             </state>
           </provider>
@@ -73,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lesson01/HttpServer/Server.js" />
         <option value="$PROJECT_DIR$/lesson01/Module/hello.js" />
         <option value="$PROJECT_DIR$/lesson01/Error/error.js" />
         <option value="$PROJECT_DIR$/lesson01/Module/main.js" />
@@ -88,6 +79,7 @@
         <option value="$PROJECT_DIR$/Questtion/Memroy.txt" />
         <option value="$PROJECT_DIR$/lesson01/File/test.txt" />
         <option value="$PROJECT_DIR$/lesson01/File/FileOpt.js" />
+        <option value="$PROJECT_DIR$/lesson01/HttpServer/Server.js" />
       </list>
     </option>
   </component>
@@ -140,62 +132,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Questtion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Node.js_Learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HttpServer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -231,12 +167,7 @@
       <recent name="K:\Github\Node.js_Learn\lesson01\File" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.FileOpt.js">
-    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="J:/Program Files/nodejs/node" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/lesson01/Module">
-      <RunnerSettings RunnerId="NodeJS.run" />
-      <ConfigurationWrapper RunnerId="NodeJS.run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.Server.js">
     <configuration default="false" name="myFunction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="J:/Program Files/nodejs/node" path-to-js-file="myFunction.js" working-dir="$PROJECT_DIR$/lesson01/Function">
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
@@ -253,6 +184,11 @@
       <method />
     </configuration>
     <configuration default="false" name="FileOpt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="J:/Program Files/nodejs/node" path-to-js-file="FileOpt.js" working-dir="$PROJECT_DIR$/lesson01/File">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="J:/Program Files/nodejs/node" path-to-js-file="Server.js" working-dir="$PROJECT_DIR$/lesson01/HttpServer">
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
@@ -275,19 +211,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.HelloWorld.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.main.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.myFunction.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.myutil.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.FileOpt.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.myFunction.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.myutil.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.FileOpt.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Server.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.FileOpt.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.myutil.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.myFunction.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.FileOpt.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.myutil.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.myFunction.js" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -351,16 +287,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32806325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28145942" sideWeight="0.6523126" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28145942" sideWeight="0.6523126" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36682615" sideWeight="0.4951601" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3476874" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3476874" sideWeight="0.4996277" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -483,27 +419,6 @@
         <state line="9" column="29" selection-start="252" selection-end="252" vertical-scroll-proportion="0.2862823" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/ShowRequest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="649" selection-end="649" vertical-scroll-proportion="0.77628034">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson01/HelloWorld.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="2" selection-start="261" selection-end="261" vertical-scroll-proportion="0.5430809">
@@ -532,16 +447,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="258" selection-end="258" vertical-scroll-proportion="0.41775456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="270" selection-end="270" vertical-scroll-proportion="0.45953003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/ShowRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="53" selection-start="649" selection-end="649" vertical-scroll-proportion="0.6240209">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Questtion/Memory.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="53" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+        <state line="1" column="53" selection-start="70" selection-end="70" vertical-scroll-proportion="0.041775458">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson01/HttpServer/Server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="54" selection-start="290" selection-end="290" vertical-scroll-proportion="0.41775456">
+        <state line="23" column="130" selection-start="497" selection-end="497" vertical-scroll-proportion="0.79112273">
           <folding />
         </state>
       </provider>
