@@ -6,3 +6,6 @@ var Second = require('./hello');
 test = new Second();
 test.setName(' EKEK');
 test.sayHello();
+
+var third = require('./third');
+third('third');
